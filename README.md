@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/intel/libyami.svg?branch=apache)](https://travis-ci.org/intel/libyami)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/11605/badge.svg)](https://scan.coverity.com/projects/01org-libyami)
+[![Coverity Scan Build Status](https://scan.coverity.com/projects/11605/badge.svg)](https://scan.coverity.com/projects/demo_libyami)
 
 libyami
 -------
